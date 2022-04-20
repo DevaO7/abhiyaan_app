@@ -48,3 +48,5 @@ Did you attempt bonus questions:
 1. No
 2. Yes
 3. Yes
+
+## I have explained few things in the file Applications.pdf as a word file offers better readability than a README file
