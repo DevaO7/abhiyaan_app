@@ -1,0 +1,9 @@
+<launch> <!-- Launch file to run the Nodes-->
+    <node pkg = "task" type = "publisher.py" name = "publisher"></node>
+    <node pkg = "task" type = "subscriber.py" name = "subscriber"></node>
+    <node pkg = "task" type = "revSubPub.py" name = "revSubPub"></node>
+    <node pkg = "task" type = "revSPSub.py" name = "revSPSub"></node>
+    <node pkg = "task" type = "turtleMove1.py" name = "turtleMove1"></node>
+    <node pkg = "task" type = "turtleMove2.py" name = "turtleMove2"></node>
+
+</launch>
